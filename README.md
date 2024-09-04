@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vishalkuma-r
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on coding group
+- 👀 I’m interested in Data Analyst 
+- 🌱 I’m currently learning Python,SQL,Power-BI
+- 💞️ I’m looking to collaborate on Data Analyst group
 - 📫 How to reach me ...
 
 <!---
