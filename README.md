@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vishalkuma-r
-- 👀 I’m interested in Data Analyst 
-- 🌱 I’m currently learning Python,SQL,Power-BI
-- 💞️ I’m looking to collaborate on Data Analyst group
+- 👀 I’m Data Analyst 
+- 🌱 I’m currently working Python,SQL,Power-BI
+- 💞️ I’m looking to collaborate with Data Analyst
 - 📫 How to reach me ... https://vishalda.netlify.app/
 
 <!---
